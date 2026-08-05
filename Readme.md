@@ -8,6 +8,14 @@ The project uses the **Random Forest Classifier** for prediction and provides an
 
 ---
 
+## 🚀 Live Deployment
+
+🌐 **Live Application:** https://credit-risk-management-2pbn.onrender.com/
+
+🔗 **GitHub Repository:** https://github.com/20Omni/Credit-Risk_Management
+
+---
+
 ## 🎯 Objectives
 
 - Predict the credit risk of loan applicants.
