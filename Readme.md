@@ -1,8 +1,8 @@
-# 💳 AI-Based Credit Risk Assessment System
+# 💳 Smart Loan Risk Dashboard
 
 ## 📌 Project Overview
 
-The **AI-Based Credit Risk Assessment System** is a Machine Learning application designed to predict the credit risk of loan applicants. The system analyzes applicant information such as income, loan amount, employment status, education, credit history, and property area to classify applicants as **Low Credit Risk** or **High Credit Risk**.
+The **Smart Loan Risk Dashboard** is a Machine Learning application designed to predict the credit risk of loan applicants. The system analyzes applicant information such as income, loan amount, employment status, education, credit history, and property area to classify applicants as **Low Credit Risk** or **High Credit Risk**.
 
 The application is powered by a **Random Forest Classifier** and provides an interactive web interface built using **Streamlit** for real-time predictions.
 
